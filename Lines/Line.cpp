@@ -6,8 +6,8 @@ void display() {
 	glBegin(GL_LINES);
 	glVertex2f(380.0, 260.0);
 	glVertex2f(250.0, 230.0);
-	glVertex2f(370.0, 230.0);
-	glVertex2f(220.0, 200.0);
+	glVertex2f(200.0, 150.0);
+	glVertex2f(70.0, 50.0);
 	glEnd();
 	glFlush();
 }
